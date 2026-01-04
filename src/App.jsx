@@ -30,7 +30,6 @@ function App() {
         </div>
       </section>
 
-      {/* --- ABOUT SECTION --- */}
       <section id="about" className="content-section">
         <div className="card">
           <h2>About Me</h2>
@@ -58,8 +57,7 @@ function App() {
       <section id="projects" className="content-section">
         <h2 className="section-title">My Projects</h2>
         <div className="projects-grid">
-          
-          {/* Project 1 */}
+
           <div className="project-card">
             <h3>Credit Card Recommender</h3>
             <p className="project-desc">Due to my recent interest in credit cards, I built a Python-based decision tool that analyzes user spending habits to recommend optimal credit products based on rewards structures and fees.</p>
