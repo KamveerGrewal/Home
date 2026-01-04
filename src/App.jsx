@@ -62,7 +62,7 @@ function App() {
           {/* Project 1 */}
           <div className="project-card">
             <h3>Credit Card Recommender</h3>
-            <p className="project-desc">Built a Python-based decision tool that analyzes user spending habits to recommend optimal credit products based on rewards structures and fees.</p>
+            <p className="project-desc">Due to my recent interest in credit cards, I built a Python-based decision tool that analyzes user spending habits to recommend optimal credit products based on rewards structures and fees.</p>
             <div className="project-links">
               <a href="https://github.com/KamveerGrewal/CreditCardRecommendation/tree/main">View Code</a>
     
