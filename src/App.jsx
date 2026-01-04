@@ -70,10 +70,10 @@ function App() {
           </div>
 
            <div className="project-card">
-            <h3>RISC-V Assembly Game</h3>
-            <p className="project-desc">Engineered complex logic algorithms for collision detection and object tracking.</p>
+            <h3>Detailing Saas</h3>
+            <p className="project-desc">Currently developing a full-stack solution to automate a potential detailing business operation</p>
             <div className="project-links">
-              <a href="https://github.com/KamveerGrewal/Fighting-my-Demons">View Code</a>
+              <a href="https://github.com/KamveerGrewal/detailing-saas">View Code</a>
             </div>
 
           </div>
